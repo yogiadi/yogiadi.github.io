@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My Data Engineering Blog</title>
+    <link>https://yogiadi.github.io/posts/</link>
+    <description>Recent content in Posts on My Data Engineering Blog</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yogiadi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Performance Optimization is a First-Class Concern</title>
+      <link>https://yogiadi.github.io/posts/performance-optimization/</link>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://yogiadi.github.io/posts/performance-optimization/</guid>
+      <description>&lt;p&gt;Optimizing data pipelines is not optional — it&amp;rsquo;s essential. Here&amp;rsquo;s why performance tuning should be baked into every engineering conversation&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;-real-world-impact&#34;&gt;🚨 Real-World Impact&lt;/h3&gt;
+&lt;p&gt;We reduced Spark job runtime from 120 to 35 minutes&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;-lessons-learned&#34;&gt;🛠 Lessons Learned&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand shuffle mechanics&lt;/li&gt;
+&lt;li&gt;Persist only the necessary steps&lt;/li&gt;
+&lt;li&gt;Leverage broadcast joins when possible&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
