@@ -10,6 +10,18 @@ theme = "PaperMod"
   defaultTheme = "auto"
   homeInfoParams = { Title = "Welcome to My Blog", Content = "Thoughts, insights, and deep dives from a Data Engineer." }
 
+[params.profileMode]
+  enabled = true
+  title = "Yogi Aditya"
+  subtitle = "Data Engineer | Spark & Redshift Enthusiast"
+  imageUrl = "images/profile.jpg"
+  imageTitle = "Profile Photo"
+  buttons = [
+    { name = "Blog Posts", url = "/posts" },
+    { name = "LinkedIn", url = "https://www.linkedin.com/in/aditya-yogi-48337784/" },
+    { name = "GitHub", url = "https://github.com/yogiadi" }
+  ]
+
 [[menu.main]]
   name = "Home"
   url = "/"
