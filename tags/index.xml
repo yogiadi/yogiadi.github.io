@@ -9,6 +9,13 @@
     <lastBuildDate>Sun, 06 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yogiadi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Big Data</title>
+      <link>https://yogiadi.github.io/tags/big-data/</link>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://yogiadi.github.io/tags/big-data/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Data Engineering</title>
       <link>https://yogiadi.github.io/tags/data-engineering/</link>
       <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
@@ -16,17 +23,24 @@
       <description></description>
     </item>
     <item>
-      <title>Optimization</title>
-      <link>https://yogiadi.github.io/tags/optimization/</link>
+      <title>Leadership</title>
+      <link>https://yogiadi.github.io/tags/leadership/</link>
       <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://yogiadi.github.io/tags/optimization/</guid>
+      <guid>https://yogiadi.github.io/tags/leadership/</guid>
       <description></description>
     </item>
     <item>
-      <title>Spark</title>
-      <link>https://yogiadi.github.io/tags/spark/</link>
+      <title>Performance</title>
+      <link>https://yogiadi.github.io/tags/performance/</link>
       <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://yogiadi.github.io/tags/spark/</guid>
+      <guid>https://yogiadi.github.io/tags/performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pipelines</title>
+      <link>https://yogiadi.github.io/tags/pipelines/</link>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://yogiadi.github.io/tags/pipelines/</guid>
       <description></description>
     </item>
   </channel>

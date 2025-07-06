@@ -5,16 +5,28 @@
     <loc>https://yogiadi.github.io/</loc>
     <lastmod>2025-07-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://yogiadi.github.io/tags/big-data/</loc>
+    <lastmod>2025-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yogiadi.github.io/categories/</loc>
+    <lastmod>2025-07-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://yogiadi.github.io/tags/data-engineering/</loc>
     <lastmod>2025-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yogiadi.github.io/tags/optimization/</loc>
+    <loc>https://yogiadi.github.io/tags/leadership/</loc>
+    <lastmod>2025-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yogiadi.github.io/tags/performance/</loc>
+    <lastmod>2025-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yogiadi.github.io/tags/pipelines/</loc>
     <lastmod>2025-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yogiadi.github.io/posts/</loc>
     <lastmod>2025-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yogiadi.github.io/tags/spark/</loc>
+    <loc>https://yogiadi.github.io/categories/reflections/</loc>
     <lastmod>2025-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yogiadi.github.io/tags/</loc>
@@ -22,7 +34,5 @@
   </url><url>
     <loc>https://yogiadi.github.io/posts/performance-optimization/</loc>
     <lastmod>2025-07-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yogiadi.github.io/categories/</loc>
   </url>
 </urlset>
