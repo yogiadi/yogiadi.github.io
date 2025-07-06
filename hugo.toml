@@ -1,6 +1,6 @@
 baseURL = "https://yogiadi.github.io/"
 languageCode = "en-us"
-title = "My Data Engineering Blog"
+title = "Aditya Yogi's Blog"
 theme = "PaperMod"
 
 [params]
