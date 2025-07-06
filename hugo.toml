@@ -12,10 +12,10 @@ theme = "PaperMod"
 
 [params.profileMode]
   enabled = true
-  title = "Yogi Aditya"
-  subtitle = "Data Engineer | Spark & Redshift Enthusiast"
+  title = "Aditya Yogi"
+  # subtitle = "Data Engineer | Spark & Redshift Enthusiast"
   imageUrl = "images/profile.jpg"
-  imageTitle = "Profile Photo"
+  # imageTitle = "Profile Photo"
   buttons = [
     { name = "Blog Posts", url = "/posts" },
     { name = "LinkedIn", url = "https://www.linkedin.com/in/aditya-yogi-48337784/" },
