@@ -4,8 +4,6 @@ date: 2025-07-12
 tags: [AI, critical thinking, prompting, productivity]
 ---
 
-# Using AI: How It’s Changing the Way I Think
-
 Over the past few months, I’ve been using AI for a variety of tasks — from writing code and documentation to brainstorming and drafting blog posts like this one.
 
 Sometimes, I find myself overestimating AI’s capabilities — expecting it to handle complex tasks with ease. Other times, I underestimate it — thinking it won’t manage even the simplest steps. In reality, its capabilities are evolving daily. But in our rush to judge how powerful or limited AI is, we’ve mostly overlooked something important: **its impact on our own thinking**.
