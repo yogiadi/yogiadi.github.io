@@ -6,7 +6,6 @@ author: "Aditya Yogi"
 tags: [productivity, focus, mental models, fibonacci, deep work]
 ---
 
-## Small Wins, Deep Work, and the Fibonacci Flow  
 *A System for Sustainable Progress*
 
 Balancing small wins with deep, meaningful work is one of the toughest challenges professionals face — especially as teams grow and responsibilities multiply.
