@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Productivity on Aditya Yogi&#39;s Blog</title>
-    <link>https://yogiadi.github.io/tags/productivity/</link>
-    <description>Recent content in Productivity on Aditya Yogi&#39;s Blog</description>
+    <title>Fibonacci on Aditya Yogi&#39;s Blog</title>
+    <link>https://yogiadi.github.io/tags/fibonacci/</link>
+    <description>Recent content in Fibonacci on Aditya Yogi&#39;s Blog</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yogiadi.github.io/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yogiadi.github.io/tags/fibonacci/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Small Wins, Deep Work, and the Fibonacci Flow</title>
       <link>https://yogiadi.github.io/posts/small-wins-deep-work-fibonacci-flow/</link>
@@ -19,14 +19,6 @@
 &lt;hr&gt;
 &lt;h3 id=&#34;-the-shift-from-simplicity-to-chaos&#34;&gt;🧠 The Shift From Simplicity to Chaos&lt;/h3&gt;
 &lt;p&gt;When you join a new team or company, you usually start with just one or two threads of work. Context switching is minimal. You focus, deliver, and succeed — as long as you&amp;rsquo;re sincere.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Using AI: How It’s Changing the Way I Think</title>
-      <link>https://yogiadi.github.io/posts/using-ai-to-improve-critical-thinking/</link>
-      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://yogiadi.github.io/posts/using-ai-to-improve-critical-thinking/</guid>
-      <description>&lt;p&gt;Over the past few months, I’ve been using AI for a variety of tasks — from writing code and documentation to brainstorming and drafting blog posts like this one.&lt;/p&gt;
-&lt;p&gt;Sometimes, I find myself overestimating AI’s capabilities — expecting it to handle complex tasks with ease. Other times, I underestimate it — thinking it won’t manage even the simplest steps. In reality, its capabilities are evolving daily. But in our rush to judge how powerful or limited AI is, we’ve mostly overlooked something important: &lt;strong&gt;its impact on our own thinking&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
