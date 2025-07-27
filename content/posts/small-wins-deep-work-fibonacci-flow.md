@@ -142,4 +142,4 @@ So the next time you're stuck between answering an email or starting that long d
 
 ---
 
-🌀 *Poster and visual summary available on my [LinkedIn](https://www.linkedin.com/in/adityayogi/)*
+🌀 *Poster and visual summary available on my [LinkedIn](https://www.linkedin.com/in/aditya-yogi-48337784/)*
