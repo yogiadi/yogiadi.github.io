@@ -9,16 +9,24 @@
     <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yogiadi.github.io/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Data Orchestration: Flow, Performance, and Practical Patterns</title>
-      <link>https://yogiadi.github.io/posts/data-orchestration/</link>
+      <title>Understanding Data Flow &amp; Execution Internals — Beyond Just Orchestration</title>
+      <link>https://yogiadi.github.io/posts/understanding-data-flow/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://yogiadi.github.io/posts/data-orchestration/</guid>
-      <description>&lt;p&gt;&lt;em&gt;A practical view of how orchestration shapes speed, reliability, and recovery&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;When most people think about building a data pipeline, they picture writing code, tuning queries, or picking the right storage format.&lt;br&gt;
-Those are important — but they don’t decide how your pipeline behaves end-to-end. The real control comes from &lt;strong&gt;data orchestration&lt;/strong&gt;.&lt;/p&gt;
+      <guid>https://yogiadi.github.io/posts/understanding-data-flow/</guid>
+      <description>&lt;h1 id=&#34;understanding-data-flow--execution-internals--beyond-just-orchestration&#34;&gt;Understanding Data Flow &amp;amp; Execution Internals — Beyond Just Orchestration&lt;/h1&gt;
+&lt;h2 id=&#34;1-introduction--beyond-just-scheduling&#34;&gt;1️⃣ Introduction — Beyond Just Scheduling&lt;/h2&gt;
+&lt;p&gt;Data orchestration tools like Airflow, Dagster, or Step Functions ensure tasks run in the right order.&lt;br&gt;
+But true orchestration is more than sequencing — it’s about &lt;strong&gt;understanding how data moves and computes&lt;/strong&gt; at every stage.&lt;/p&gt;
+&lt;p&gt;Without this, you risk:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixing the wrong bottlenecks.&lt;/li&gt;
+&lt;li&gt;Optimizing away business-critical logic.&lt;/li&gt;
+&lt;li&gt;Wasting compute on repeated heavy operations.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;1-orchestration-as-the-flow-controller&#34;&gt;1) Orchestration as the Flow Controller&lt;/h3&gt;
-&lt;p&gt;Data orchestration manages the execution flow: which tasks run, in what order, and under what conditions.&lt;/p&gt;</description>
+&lt;h2 id=&#34;2-business-context-awareness&#34;&gt;2️⃣ Business Context Awareness&lt;/h2&gt;
+&lt;p&gt;Understanding data flow starts with knowing &lt;strong&gt;why&lt;/strong&gt; a dataset exists and what it represents.&lt;br&gt;
+If you don’t, optimizations can break downstream logic.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why Performance Optimization Deserves Your Focus</title>
