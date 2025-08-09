@@ -200,19 +200,6 @@ In a 30-task DAG, persisting after Task 10 and Task 20 means if Task 25 fails, y
 
 ---
 
-**Alternative (Mermaid) — render diagram from code:**
-
-```mermaid
-flowchart TD
-    DM[Data Modeling (Blueprint)] --> DO[Data Orchestration (Flow Control)]
-    DO --> EO[Execution Order Optimization]
-    DO --> LG[Lineage Tracking]
-    EO --> GA[Graph Algorithms (DAG Thinking)]
-    LG --> GA
-```
-
----
-
 ### Final Note
 
 Code runs the transformations, but orchestration decides *how the system behaves*. It determines speed, reliability, and recovery — and it’s the one skill that scales with every pipeline you build.
