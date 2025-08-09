@@ -6,8 +6,20 @@
     <description>Recent content on Aditya Yogi&#39;s Blog</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yogiadi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Orchestration: Flow, Performance, and Practical Patterns</title>
+      <link>https://yogiadi.github.io/posts/data-orchestration/</link>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://yogiadi.github.io/posts/data-orchestration/</guid>
+      <description>&lt;p&gt;&lt;em&gt;A practical view of how orchestration shapes speed, reliability, and recovery&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;When most people think about building a data pipeline, they picture writing code, tuning queries, or picking the right storage format.&lt;br&gt;
+Those are important — but they don’t decide how your pipeline behaves end-to-end. The real control comes from &lt;strong&gt;data orchestration&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;1-orchestration-as-the-flow-controller&#34;&gt;1) Orchestration as the Flow Controller&lt;/h3&gt;
+&lt;p&gt;Data orchestration manages the execution flow: which tasks run, in what order, and under what conditions.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Small Wins, Deep Work, and the Fibonacci Flow</title>
       <link>https://yogiadi.github.io/posts/small-wins-deep-work-fibonacci-flow/</link>
