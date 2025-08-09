@@ -13,8 +13,7 @@
       <link>https://yogiadi.github.io/posts/understanding-data-flow/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://yogiadi.github.io/posts/understanding-data-flow/</guid>
-      <description>&lt;h1 id=&#34;understanding-data-flow--execution-internals--beyond-just-orchestration&#34;&gt;Understanding Data Flow &amp;amp; Execution Internals — Beyond Just Orchestration&lt;/h1&gt;
-&lt;h2 id=&#34;1-introduction--beyond-just-scheduling&#34;&gt;1️⃣ Introduction — Beyond Just Scheduling&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;1-introduction--beyond-just-scheduling&#34;&gt;1️⃣ Introduction — Beyond Just Scheduling&lt;/h2&gt;
 &lt;p&gt;Data orchestration tools like Airflow, Dagster, or Step Functions ensure tasks run in the right order.&lt;br&gt;
 But true orchestration is more than sequencing — it’s about &lt;strong&gt;understanding how data moves and computes&lt;/strong&gt; at every stage.&lt;/p&gt;
 &lt;p&gt;Without this, you risk:&lt;/p&gt;

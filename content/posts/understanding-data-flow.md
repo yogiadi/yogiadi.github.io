@@ -5,8 +5,6 @@ author: "Aditya Yogi"
 tags: [data engineering, orchestration, airflow, spark, sql, dag, redshift, data-lineage]
 ---
 
-# Understanding Data Flow & Execution Internals — Beyond Just Orchestration
-
 ## 1️⃣ Introduction — Beyond Just Scheduling
 Data orchestration tools like Airflow, Dagster, or Step Functions ensure tasks run in the right order.  
 But true orchestration is more than sequencing — it’s about **understanding how data moves and computes** at every stage.
