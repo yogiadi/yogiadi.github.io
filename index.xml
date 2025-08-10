@@ -6,26 +6,17 @@
     <description>Recent content on Aditya Yogi&#39;s Blog</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yogiadi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Understanding Data Flow &amp; Execution Internals — Beyond Just Orchestration</title>
-      <link>https://yogiadi.github.io/posts/understanding-data-flow/</link>
-      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://yogiadi.github.io/posts/understanding-data-flow/</guid>
-      <description>&lt;h2 id=&#34;1-introduction--beyond-just-scheduling&#34;&gt;1️⃣ Introduction — Beyond Just Scheduling&lt;/h2&gt;
-&lt;p&gt;Data orchestration tools like Airflow, Dagster, or Step Functions ensure tasks run in the right order.&lt;br&gt;
-But true orchestration is more than sequencing — it’s about &lt;strong&gt;understanding how data moves and computes&lt;/strong&gt; at every stage.&lt;/p&gt;
-&lt;p&gt;Without this, you risk:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixing the wrong bottlenecks.&lt;/li&gt;
-&lt;li&gt;Optimizing away business-critical logic.&lt;/li&gt;
-&lt;li&gt;Wasting compute on repeated heavy operations.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;2-business-context-awareness&#34;&gt;2️⃣ Business Context Awareness&lt;/h2&gt;
-&lt;p&gt;Understanding data flow starts with knowing &lt;strong&gt;why&lt;/strong&gt; a dataset exists and what it represents.&lt;br&gt;
-If you don’t, optimizations can break downstream logic.&lt;/p&gt;</description>
+      <title>Introducing KeySense (PySpark) – Finding Your Dataset&#39;s True Grain</title>
+      <link>https://yogiadi.github.io/posts/introducing-keysense/</link>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://yogiadi.github.io/posts/introducing-keysense/</guid>
+      <description>&lt;h2 id=&#34;why-keysense&#34;&gt;Why KeySense?&lt;/h2&gt;
+&lt;p&gt;In the world of data engineering, one of the most overlooked problems is &lt;strong&gt;determining a dataset&amp;rsquo;s grain&lt;/strong&gt; — the unique combination of columns that defines each record.&lt;br&gt;
+Most data quality frameworks assume you &lt;em&gt;already know&lt;/em&gt; this grain, but in reality, it&amp;rsquo;s rarely documented, often misunderstood, and prone to &lt;strong&gt;grain drift&lt;/strong&gt; over time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grain drift&lt;/strong&gt; happens when the real-world uniqueness of your data changes silently — duplicates creep in, KPIs break, joins explode, and trust in the data erodes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Small Wins, Deep Work, and the Fibonacci Flow</title>

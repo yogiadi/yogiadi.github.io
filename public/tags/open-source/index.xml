@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Data Engineering on Aditya Yogi&#39;s Blog</title>
-    <link>https://yogiadi.github.io/tags/data-engineering/</link>
-    <description>Recent content in Data Engineering on Aditya Yogi&#39;s Blog</description>
+    <title>Open-Source on Aditya Yogi&#39;s Blog</title>
+    <link>https://yogiadi.github.io/tags/open-source/</link>
+    <description>Recent content in Open-Source on Aditya Yogi&#39;s Blog</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yogiadi.github.io/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yogiadi.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing KeySense (PySpark) – Finding Your Dataset&#39;s True Grain</title>
       <link>https://yogiadi.github.io/posts/introducing-keysense/</link>
@@ -17,16 +17,6 @@
 &lt;p&gt;In the world of data engineering, one of the most overlooked problems is &lt;strong&gt;determining a dataset&amp;rsquo;s grain&lt;/strong&gt; — the unique combination of columns that defines each record.&lt;br&gt;
 Most data quality frameworks assume you &lt;em&gt;already know&lt;/em&gt; this grain, but in reality, it&amp;rsquo;s rarely documented, often misunderstood, and prone to &lt;strong&gt;grain drift&lt;/strong&gt; over time.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Grain drift&lt;/strong&gt; happens when the real-world uniqueness of your data changes silently — duplicates creep in, KPIs break, joins explode, and trust in the data erodes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why Performance Optimization Deserves Your Focus</title>
-      <link>https://yogiadi.github.io/posts/performance-optimization/</link>
-      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://yogiadi.github.io/posts/performance-optimization/</guid>
-      <description>&lt;hr&gt;
-&lt;h3 id=&#34;-my-journey-through-the-evolution-of-data-engineering&#34;&gt;🧭 My Journey Through the Evolution of Data Engineering&lt;/h3&gt;
-&lt;p&gt;Over the last 12 years, I&amp;rsquo;ve worked across Oracle, Informatica, Redshift, Spark, and modern big data stacks. My teams have owned and operated mission-critical data pipelines — pipelines that often held the fate of dashboards, reports, and leadership decisions.&lt;/p&gt;
-&lt;p&gt;There were countless nights when things went wrong — a fix was made, and we had no option but to wait several hours to validate if it actually worked. Sample runs weren’t enough. Real validation needed full data processing. And until the pipelines completed, no one had answers.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
